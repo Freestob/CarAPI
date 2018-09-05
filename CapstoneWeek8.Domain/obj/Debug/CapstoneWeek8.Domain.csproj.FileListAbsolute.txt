@@ -1,0 +1,15 @@
+c:\users\frees\source\repos\CapstoneWeek8\CapstoneWeek8.Domain\bin\Debug\CapstoneWeek8.Domain.dll.config
+c:\users\frees\source\repos\CapstoneWeek8\CapstoneWeek8.Domain\bin\Debug\CapstoneWeek8.Domain.dll
+c:\users\frees\source\repos\CapstoneWeek8\CapstoneWeek8.Domain\bin\Debug\CapstoneWeek8.Domain.pdb
+c:\users\frees\source\repos\CapstoneWeek8\CapstoneWeek8.Domain\bin\Debug\EntityFramework.dll
+c:\users\frees\source\repos\CapstoneWeek8\CapstoneWeek8.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\frees\source\repos\CapstoneWeek8\CapstoneWeek8.Domain\bin\Debug\EntityFramework.xml
+c:\users\frees\source\repos\CapstoneWeek8\CapstoneWeek8.Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\frees\source\repos\CapstoneWeek8\CapstoneWeek8.Domain\obj\Debug\CapstoneWeek8.Domain.csproj.CoreCompileInputs.cache
+c:\users\frees\source\repos\CapstoneWeek8\CapstoneWeek8.Domain\obj\Debug\CapstoneWeek8.Domain.csproj.CopyComplete
+c:\users\frees\source\repos\CapstoneWeek8\CapstoneWeek8.Domain\obj\Debug\CapstoneWeek8.Domain.dll
+c:\users\frees\source\repos\CapstoneWeek8\CapstoneWeek8.Domain\obj\Debug\CapstoneWeek8.Domain.pdb
+c:\users\frees\source\repos\CapstoneWeek8\CapstoneWeek8.Domain\bin\Debug\Newtonsoft.Json.dll
+c:\users\frees\source\repos\CapstoneWeek8\CapstoneWeek8.Domain\bin\Debug\RestSharp.dll
+c:\users\frees\source\repos\CapstoneWeek8\CapstoneWeek8.Domain\bin\Debug\Newtonsoft.Json.xml
+c:\users\frees\source\repos\CapstoneWeek8\CapstoneWeek8.Domain\obj\Debug\CapstoneWeek8.Domain.csprojAssemblyReference.cache
