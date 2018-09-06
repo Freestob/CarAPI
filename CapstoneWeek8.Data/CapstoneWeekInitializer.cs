@@ -8,7 +8,7 @@ using CapstoneWeek8.Domain.Models;
 
 namespace CapstoneWeek8.Data
 {
-    class CapstoneWeek8Initializer : DropCreateDatabaseIfModelChanges<CapstoneWeek8Context>
+    class CapstoneWeek8Initializer : CreateDatabaseIfNotExists<CapstoneWeek8Context>
     {
         protected override void Seed(CapstoneWeek8Context context)
         {
@@ -21,7 +21,7 @@ namespace CapstoneWeek8.Data
             });
            
             context.SaveChanges();
-
+            base.Seed(context);
         }
     }
 }
